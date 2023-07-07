@@ -31,3 +31,18 @@
 .item:hover{
     color: aqua;
 }
+.banner-img{
+    width: 300px;
+
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    /*border: 2px solid gray; */
+    align-items: center;
+    color: aliceblue;
+    background-image: url('./images/background.png'),
+    linear-gradient(45deg,rgb(8,8,8),rgb(53,53,53));
+    
+}
