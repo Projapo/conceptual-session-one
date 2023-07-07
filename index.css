@@ -117,6 +117,32 @@
 
 .box{
     width: 230px;
-    height: 250px;
+    height: 280px;
     box-shadow: 4px 4px 15px grey;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color:white;
+
 }
+.btnn{
+    padding: 8px;
+    background-color: grey;
+    margin-top: 10px;
+
+}
+
+.hh{
+    padding: 10px;
+
+}
+
+.icon{
+    width: 70px;
+
+}
+
+.pp{
+    padding: 10px;
+}
+
