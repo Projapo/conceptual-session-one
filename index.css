@@ -46,3 +46,24 @@
     linear-gradient(45deg,rgb(8,8,8),rgb(53,53,53));
     
 }
+.title{
+    font-size: 55px;
+    font-weight: bold;
+    
+}
+.description{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn{
+    padding:10px 20px;
+    color: white;
+    background-color: red;
+    border: none;
+}
+.btn:hover{
+    cursor: pointer;
+    color: rgb(16, 128, 10);
+}
