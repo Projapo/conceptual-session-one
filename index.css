@@ -90,7 +90,7 @@
 .about-container{
     display: flex;
     justify-content: space-around;
-    height: 40vh;
+    height: 60vh;
     align-items: center;
 
 }
@@ -134,5 +134,23 @@
 }
 .box-p{
     padding: 5px;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.sec{
+    background-color: rgb(37, 34, 34);
+    padding-bottom: 40px;
+}
+.position-b{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    padding-top: 40px;
+    font-size: 40px;
+    font-style: initial;
 }
 
