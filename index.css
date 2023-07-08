@@ -154,3 +154,13 @@
     font-style: initial;
 }
 
+.sect{
+    background-color: black;
+}
+.img-f{
+    height: 30px;
+    width: 120px;
+}
+.p-f{
+    color: white;
+}
