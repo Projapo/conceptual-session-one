@@ -111,3 +111,13 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.box{
+    width: 230px;
+    height: 250px;
+    box-shadow: 4px 4px 15px grey;
+    background-color: black; 
+    text-align: center;   
+}
+.icon{
+    width: 70px;
+}
