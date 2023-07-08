@@ -159,11 +159,24 @@
 }
 .img-f{
     height: 30px;
-    width: 120px;
+    width: 140px;
+    padding: 10px;
+    padding-top: 80px;
 }
 .p-f{
     color: white;
 }
 .diva{
     color: white;
+}
+.footer-container{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.hat{
+    padding: 10px;
+    padding-top: 80px;
+    text-align: left;
+    font-size: medium;
 }
