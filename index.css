@@ -49,7 +49,7 @@
     background-repeat: no-repeat;
     
 }
-.title{
+.titlee{
     font-size: 55px;
     font-weight: bold;
     
@@ -90,7 +90,7 @@
 .about-container{
     display: flex;
     justify-content: space-around;
-    height: 50vh;
+    height: 40vh;
     align-items: center;
 
 }
@@ -111,38 +111,3 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
-.title{
-    text-align: center;
-}
-
-.box{
-    width: 230px;
-    height: 280px;
-    box-shadow: 4px 4px 15px grey;
-    background-color: black;
-    text-align: center;
-    padding: 15px;
-    color:white;
-
-}
-.btnn{
-    padding: 8px;
-    background-color: grey;
-    margin-top: 10px;
-
-}
-
-.hh{
-    padding: 10px;
-
-}
-
-.icon{
-    width: 70px;
-
-}
-
-.pp{
-    padding: 10px;
-}
-
